@@ -26,17 +26,16 @@ Practice front-end development skills through a real-world project.
 Understand the challenges of replicating professional website designs.
 Gain hands-on experience with responsive web design techniques.
 
+Future Enhancements
+Add interactivity using JavaScript.
+Expand functionality with a backend to manage courses and user accounts.
+Implement animations for smoother user experience.
 How to Use
 Clone the repository:
 bash
 Copy code
 git clone https://github.com/your-username/udemy-clone.git  
 Open the project folder and launch index.html in your browser.
-Future Enhancements
-Add interactivity using JavaScript.
-Expand functionality with a backend to manage courses and user accounts.
-Implement animations for smoother user experience.
-
 
 
 
