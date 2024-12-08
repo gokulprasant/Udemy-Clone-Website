@@ -24,8 +24,8 @@ Modular CSS for easier maintenance and scalability.
 
   HTML5: Semantic elements for better accessibility and structure.
  CSS3: Advanced styling with flexbox, grid, and media queries to ensure a polished design.
-Goals of the Project
-Practice front-end development skills through a real-world project.
+ Goals of the Project
+ Practice front-end development skills through a real-world project.
 Understand the challenges of replicating professional website designs.
 Gain hands-on experience with responsive web design techniques.
 
@@ -35,9 +35,9 @@ Gain hands-on experience with responsive web design techniques.
   Expand functionality with a backend to manage courses and user accounts.
   Implement animations for smoother user experience.
 
-How to Use
-git clone https://gokulprasant.github.io/Udemy-Clone-Website/ 
-Open the project folder and launch index.html in your browser.
+   Check out this:
+     git clone https://gokulprasant.github.io/Udemy-Clone-Website/ 
+     
 
 
 
