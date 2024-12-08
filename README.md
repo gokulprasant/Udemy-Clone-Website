@@ -34,7 +34,7 @@ How to Use
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/udemy-clone.git  
+git clone https://gokulprasant.github.io/Udemy-Clone-Website/ 
 Open the project folder and launch index.html in your browser.
 
 
