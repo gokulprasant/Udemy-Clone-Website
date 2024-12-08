@@ -20,18 +20,20 @@ Flexible grid system to ensure seamless viewing on different screen sizes.
 Buttons, headers, and cards styled for consistency across the site.
 Modular CSS for easier maintenance and scalability.
 
-5.Technologies Used
-HTML5: Semantic elements for better accessibility and structure.
-CSS3: Advanced styling with flexbox, grid, and media queries to ensure a polished design.
+  5.Technologies Used:
+
+  HTML5: Semantic elements for better accessibility and structure.
+ CSS3: Advanced styling with flexbox, grid, and media queries to ensure a polished design.
 Goals of the Project
 Practice front-end development skills through a real-world project.
 Understand the challenges of replicating professional website designs.
 Gain hands-on experience with responsive web design techniques.
 
-6.Future Enhancements
-Add interactivity using JavaScript.
-Expand functionality with a backend to manage courses and user accounts.
-Implement animations for smoother user experience.
+  6.Future Enhancements:
+
+  Add interactivity using JavaScript.
+  Expand functionality with a backend to manage courses and user accounts.
+  Implement animations for smoother user experience.
 
 How to Use
 git clone https://gokulprasant.github.io/Udemy-Clone-Website/ 
